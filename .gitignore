@@ -1,0 +1,16 @@
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Maven
+target/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# API Keys
+src/main/resources/config/config.properties

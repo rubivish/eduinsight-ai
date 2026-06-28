@@ -1,0 +1,13 @@
+====================================================
+Topic : Selenium XPath
+
+Instructor : John Smith
+
+Date : 2026-07-01
+
+Transcript
+
+XPath is used to locate web elements.
+Relative XPath is flexible.
+XPath Axes are useful for navigating the DOM.
+====================================================
