@@ -1,5 +1,5 @@
 package com.eduinsight.chat;
 
-public class SummaryFilter {
+public class ChatParser {
 
 }
